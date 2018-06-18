@@ -5,5 +5,5 @@
 *.DS_Store
 *.iml
 *.class
-*.bin/
-*.out/
+*bin/
+*out/
